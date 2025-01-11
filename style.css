@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@400;500;700&display=swap');
+
+body {
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+min-height: 100vh;
+display: grid;
+place-items: center;
+}
+
+.jaya { 
+    text-align: center;
+    background-color: #393a41;
+    border: 10px;
+    padding: 70px;
+    border-radius: 80px;
+}
+
+img {
+    border-radius: 90%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#IG {
+    background-color: #9b9b9b;
+    color: #efefef;
+    border-radius: 3px;;
+    margin: 90px;
+    width: 100px;
+}
+
+#Git {
+    background-color: #9b9b9b;
+    color: #efefef;
+    border-radius: 3px;;
+}
